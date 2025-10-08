@@ -4,7 +4,9 @@
 
 ## Ferramentas e Tecnologias :
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 <div>
 <a href="https://github.com/Joao-Angel">
@@ -12,7 +14,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Angel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/Joao_Angel/Joao-Angel/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
