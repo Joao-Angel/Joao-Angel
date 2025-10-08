@@ -4,11 +4,12 @@
 
 ## Ferramentas e Tecnologias :
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />  
-            <i class="devicon-python-plain"></i>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60" alt="Python logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="60" alt = "CSS3" />
           
-          
-          
+</p>
+
 
 ## Contatos:
 <div>
